@@ -1,4 +1,4 @@
-# ProbabilityOfMaxNumber
+# Total attempts required to get max number using given number of dice
 Program to find probability of getting max number for the given no of sides with total number of dice
 
 User need to enter total number of dice he is going to use for game. 
