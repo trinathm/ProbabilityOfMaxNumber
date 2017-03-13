@@ -46,7 +46,7 @@ namespace RoleDice
 
             for (int i = 0; i < totalDice; i++)
             {
-                totalValue += RandomInstance.Next(0, NUM_SIDES + 1);
+                totalValue += RandomInstance.Next(1, NUM_SIDES + 1);
             }
 
             return totalValue;
